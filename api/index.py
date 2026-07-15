@@ -7,7 +7,7 @@ class GameInfo:
     def __init__(self) -> None:
         self.TitleId:   str = "1F5932"
         self.SecretKey: str = "CMX6WTXOAMYYDABNXBW8M8KDO39XUEPTGY4MCH44KMNJ1335FF"
-        self.AppCreds:  str = "OC|1172119952656692|846b18e8f4d708fe68e3b8c3f35345a7"
+        self.AppCreds:  str = "1172119952656692|846b18e8f4d708fe68e3b8c3f35345a7"
         self.OculusAppId: str = "1172119952656692"
         self.EntitlementCheck: bool = True (If Your Game Uses APIS Or Not. Using Apis = True, And Not = False)
 
